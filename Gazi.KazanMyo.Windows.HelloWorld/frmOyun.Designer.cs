@@ -31,15 +31,15 @@
             this.components = new System.ComponentModel.Container();
             this.tmr1 = new System.Windows.Forms.Timer(this.components);
             this.pnlGosterge = new System.Windows.Forms.Panel();
-            this.lblSkor = new System.Windows.Forms.Label();
             this.lblSure = new System.Windows.Forms.Label();
+            this.lblSkor = new System.Windows.Forms.Label();
             this.tmrSure = new System.Windows.Forms.Timer(this.components);
             this.pnlGosterge.SuspendLayout();
             this.SuspendLayout();
             // 
             // tmr1
             // 
-            this.tmr1.Interval = 200;
+            this.tmr1.Interval = 500;
             this.tmr1.Tick += new System.EventHandler(this.tmr1_Tick);
             // 
             // pnlGosterge
@@ -53,26 +53,27 @@
             this.pnlGosterge.Size = new System.Drawing.Size(150, 450);
             this.pnlGosterge.TabIndex = 0;
             // 
-            // lblSkor
-            // 
-            this.lblSkor.AutoSize = true;
-            this.lblSkor.Location = new System.Drawing.Point(30, 18);
-            this.lblSkor.Name = "lblSkor";
-            this.lblSkor.Size = new System.Drawing.Size(46, 17);
-            this.lblSkor.TabIndex = 0;
-            this.lblSkor.Text = "label1";
-            // 
             // lblSure
             // 
             this.lblSure.AutoSize = true;
-            this.lblSure.Location = new System.Drawing.Point(29, 39);
+            this.lblSure.Location = new System.Drawing.Point(30, 20);
             this.lblSure.Name = "lblSure";
             this.lblSure.Size = new System.Drawing.Size(46, 17);
             this.lblSure.TabIndex = 1;
             this.lblSure.Text = "label2";
             // 
+            // lblSkor
+            // 
+            this.lblSkor.AutoSize = true;
+            this.lblSkor.Location = new System.Drawing.Point(30, 62);
+            this.lblSkor.Name = "lblSkor";
+            this.lblSkor.Size = new System.Drawing.Size(49, 17);
+            this.lblSkor.TabIndex = 0;
+            this.lblSkor.Text = "Skor:0";
+            // 
             // tmrSure
             // 
+            this.tmrSure.Interval = 1000;
             this.tmrSure.Tick += new System.EventHandler(this.tmrSure_Tick);
             // 
             // frmOyun

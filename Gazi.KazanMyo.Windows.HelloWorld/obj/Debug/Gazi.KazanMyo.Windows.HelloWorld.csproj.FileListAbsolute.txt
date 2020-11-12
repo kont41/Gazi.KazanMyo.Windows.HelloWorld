@@ -1,0 +1,12 @@
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\bin\Debug\Gazi.KazanMyo.Windows.HelloWorld.exe.config
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\bin\Debug\Gazi.KazanMyo.Windows.HelloWorld.exe
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\bin\Debug\Gazi.KazanMyo.Windows.HelloWorld.pdb
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.csprojAssemblyReference.cache
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.Form1.resources
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.Properties.Resources.resources
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.csproj.GenerateResource.cache
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.exe
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.pdb
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.frmEvents.resources
+C:\Users\Violétt\source\repos\Gazi.KazanMyo.Windows.HelloWorld\Gazi.KazanMyo.Windows.HelloWorld\obj\Debug\Gazi.KazanMyo.Windows.HelloWorld.frmOyun.resources
